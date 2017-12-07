@@ -18,6 +18,7 @@
 	(these file are used to plot map in ArcGIS)
 
 5. If you wish to execute the main.py program on entire raw dataset(1.4GB) please
-	download the data file from link mentioned in ppt.
+	download the data file from here: 
+	https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
 
 6. Thank you	
